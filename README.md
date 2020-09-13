@@ -6,8 +6,6 @@ Team members names: Carol Yang, Farhad Kazi, Jessie Giddings, Johanne Lemaire, K
 **Background**
 
  - Since the middle of the 20th century, the **rapidly increasing global production of plastics** (322 million per year in 2016) has been accompanied by 
- - an **unprecedented accumulation of plastic litter in our oceans**. On average,  an  estimated  8  million  metric  tons of  this  persistent  material  enters  the  global  ocean  annually (Jambeck et al. 2015). 
- - Plastic litter **compromises the ecological and economic prosperity of the ocean**, with over 300 marine species being harmed annually through entanglement or ingestion (Gall &Thompson, 2015).
  - **Microplastics** are a concern to ocean health because they are ingested by marine plankton, move across food webs and like all plastic litter they can persist in the ocean for an extremely long time (hundreds of years).  
  - With the **world’s longest coastline**, this problem is of particular urgency for Canadians.
 
