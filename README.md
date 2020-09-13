@@ -11,14 +11,14 @@ Team members names: Carol Yang, Farhad Kazi, Jessie Giddings, Johanne Lemaire, K
 
 
 ## Questions
-Do we pollute more in the summer months?
-Are the most populated cities the most polluted?
-Is plastic waste growing the fastest? 
+ - Do we pollute more in the summer months?
+ - Are the most populated cities the most polluted?
+ - Is plastic waste growing the fastest? 
 
 ## Dataset
-The Greate Canadian Shoreline Data.
+ - The Greate Canadian Shoreline Data.
 
-Since 1994, the Great Canadian Shoreline Cleanup has collected over 1.7 million kg of trash across Canada’s shorelines over thousands of volunteer cleanup event. The dataset for this challenge provides three years of shoreline cleanup data across Canada.
+ - Since 1994, the Great Canadian Shoreline Cleanup has collected over 1.7 million kg of trash across Canada’s shorelines over thousands of volunteer cleanup event. The dataset for this challenge provides three years of shoreline cleanup data across Canada.
 
 ## How to use code in this repository
 
