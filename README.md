@@ -32,14 +32,14 @@ this scrip contains five main jupyter notebooks:
    II. plastic_map.html: plastic waste map
 
 ## Team
-Kacy Wu (Team Lead)
-Shubham Negi (Mentor) 
-Carol Yang
-Farhad Kazi
-Jessie Giddings
-Johanne Lemaire
-Stephen Wu
-Yana Pertels
+ - Kacy Wu (Team Lead)
+ - Shubham Negi (Mentor) 
+ - Carol Yang
+ - Farhad Kazi
+ - Jessie Giddings
+ - Johanne Lemaire
+ - Stephen Wu
+ - Yana Pertels
 
 ## References
 Comparison of Environmental Impact of Plastic, Paper and Cloth Bags: http://www.niassembly.gov.uk/globalassets/documents/raise/publications/2011/environment/3611.pdf
