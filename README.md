@@ -4,7 +4,6 @@ Team members names: Carol Yang, Farhad Kazi, Jessie Giddings, Johanne Lemaire, K
 
 ## Project description
 
-=======
 Questions:
 Do we pollute more in the summer months?
 Are the most populated cities the most polluted?
