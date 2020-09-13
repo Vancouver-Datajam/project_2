@@ -29,7 +29,9 @@ this scrip contains five main jupyter notebooks:
 2. Temporal analysis of total waste amount monthly in monthly_analysis.ipynb.
 3. Monthly_analysis.ipynb: montly change of waste from 2017-2019.
 4. Most_Common_Types_Of_Waste.ipynb: most common types of Waste comparison over time. 
-5. Datajam_Interactive_Map.ipynb: interactive spatial map analysis of waste (plastic vs non-plastic)
+5. Datajam_Interactive_Map.ipynb: interactive spatial map analysis of waste (plastic vs non-plastic):
+   I. non_map.html: non-plastic waste map
+   II. plastic_map.html: plastic waste map
 
 ## References
 Comparison of Environmental Impact of Plastic, Paper and Cloth Bags: http://www.niassembly.gov.uk/globalassets/documents/raise/publications/2011/environment/3611.pdf
