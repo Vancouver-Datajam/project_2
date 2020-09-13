@@ -1,7 +1,16 @@
 # Kacy's Team Project: Spatial and Temporal Analysis of  Shoreline Cleanup Data
 
-Team members names: Carol Yang, Farhad Kazi, Jessie Giddings, Johanne Lemaire, Kacy Wu, Shubham Negi, Stephen Wu, Yana Pertels
-
+## Team
+ - Kacy Wu (Team Lead)
+ - Shubham Negi (Mentor) 
+ - Carol Yang
+ - Farhad Kazi
+ - Jessie Giddings
+ - Johanne Lemaire
+ - Stephen Wu
+ - Yana Pertels
+ 
+ 
 ## Project description
 **Background**
 
@@ -30,16 +39,6 @@ this scrip contains five main jupyter notebooks:
 5. Datajam_Interactive_Map.ipynb: interactive spatial map analysis of waste (plastic vs non-plastic):
    I. non_map.html: non-plastic waste map
    II. plastic_map.html: plastic waste map
-
-## Team
- - Kacy Wu (Team Lead)
- - Shubham Negi (Mentor) 
- - Carol Yang
- - Farhad Kazi
- - Jessie Giddings
- - Johanne Lemaire
- - Stephen Wu
- - Yana Pertels
 
 ## References
 Comparison of Environmental Impact of Plastic, Paper and Cloth Bags: http://www.niassembly.gov.uk/globalassets/documents/raise/publications/2011/environment/3611.pdf
