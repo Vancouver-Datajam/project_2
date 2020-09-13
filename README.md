@@ -17,7 +17,7 @@ Do we pollute more in the summer months?
 Are the most populated cities the most polluted?
 Is plastic waste growing the fastest? 
 
-## Dataset:
+## Dataset
 The Greate Canadian Shoreline Data.
 
 Since 1994, the Great Canadian Shoreline Cleanup has collected over 1.7 million kg of trash across Canada’s shorelines over thousands of volunteer cleanup event. The dataset for this challenge provides three years of shoreline cleanup data across Canada.
