@@ -1,9 +1,11 @@
 # Kacy's Team Project: Spatial and Temporal Analysis of  Shoreline Cleanup Data
 
-## Team members names:
+## Team members names: Carol Yang, Farhad Kazi, Jessie Giddings, Johanne Lemaire, Kacy Wu, Shubham Negi, Stephen Wu, Yana Pertels, Y. Brian Lee 
 
 ## Project description
 
+**Most Common Types Of Waste**: contains analysis of the most commonly picked up litter items over time.
+=======
 Questions:
 Do we pollute more in the summer months?
 Are the most populated cities the most polluted?
@@ -16,6 +18,7 @@ The Greate Canadian Shoreline Data
 
 this scrip contains 5 jupyter notebooks:
 1. Temporal analysis of total waste amount by year.ipynb: general temporal analysis of total waste
+2. Temporal analysis of total waste amount monthly in monthly_analysis.ipynb
 
  
 ## References
