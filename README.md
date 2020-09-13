@@ -1,10 +1,9 @@
 # Kacy's Team Project: Spatial and Temporal Analysis of  Shoreline Cleanup Data
 
-## Team members names: Carol Yang, Farhad Kazi, Jessie Giddings, Johanne Lemaire, Kacy Wu, Shubham Negi, Stephen Wu, Yana Pertels, Y. Brian Lee 
+Team members names: Carol Yang, Farhad Kazi, Jessie Giddings, Johanne Lemaire, Kacy Wu, Shubham Negi, Stephen Wu, Yana Pertels, Y. Brian Lee 
 
 ## Project description
 
-**Most Common Types Of Waste**: contains analysis of the most commonly picked up litter items over time.
 =======
 Questions:
 Do we pollute more in the summer months?
