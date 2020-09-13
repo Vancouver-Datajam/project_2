@@ -40,6 +40,10 @@ this scrip contains five main jupyter notebooks:
    I. non_map.html: non-plastic waste map
    II. plastic_map.html: plastic waste map
 
+## Slides
+Our team is very collaborative and we successfully get everything done in a one day hackathon. Here is our [slides](https://github.com/kacy12/project_2/blob/master/Canadian%20Shoreline%20Presentation.pptx).
+
+
 ## References
 Comparison of Environmental Impact of Plastic, Paper and Cloth Bags: http://www.niassembly.gov.uk/globalassets/documents/raise/publications/2011/environment/3611.pdf
 
